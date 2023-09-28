@@ -29,7 +29,7 @@
 [![](https://img.shields.io/badge/-%20Dice%20Battle-1B1717)](https://andreafourel.github.io/evaluationStudiJsDOM/)
 
 ### You can reach me
-[![LinkedIn](https://img.shields.io/badge/-My%20LinkedIn-0e76a8?&logo=LinkedIn)](www.linkedin.com/in/andréa-fourel-1a3812109)
+[![LinkedIn](https://img.shields.io/badge/-My%20LinkedIn-0e76a8?&logo=LinkedIn)](https://www.linkedin.com/in/andréa-fourel-1a3812109)
 
 
 <!--
