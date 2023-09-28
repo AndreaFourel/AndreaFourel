@@ -28,7 +28,7 @@
 [![](https://img.shields.io/badge/-%20Mahm-C6B4CE)](https://www.mahm.fr/)
 [![](https://img.shields.io/badge/-%20Dice%20Battle-1B1717)](https://andreafourel.github.io/evaluationStudiJsDOM/)
 
-### You can reach me
+### Learn more about me
 [![LinkedIn](https://img.shields.io/badge/-My%20LinkedIn-0e76a8?&logo=LinkedIn)](https://www.linkedin.com/in/andréa-fourel-1a3812109)
 
 
