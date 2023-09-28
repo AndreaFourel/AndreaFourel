@@ -1,4 +1,4 @@
-### Hi I'm Andrea Fourel, a junior full-stack web developer. Wellcome to my GitHub!
+### Hi I'm Andrea, a junior fullStack web developer. Wellcome to my GitHub!
 
 ### Languages
 
