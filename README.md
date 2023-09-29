@@ -17,6 +17,7 @@
 
 ### Currently learning
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress)
 
 ### FullStack Projects
