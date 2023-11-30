@@ -22,8 +22,8 @@
 ![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress)
 
 ### FullStack Projects
-[![](https://img.shields.io/badge/-%20Restaurant%20WebApp-155263)](https://andreafourel.fr/labouchedesgouts/public/)
 [![](https://img.shields.io/badge/-%20Les%20Pizzas%20De%20Charlotte-B92530)](https://www.lespizzasdecharlotte.com/)
+[![](https://img.shields.io/badge/-%20Restaurant%20WebApp-155263)](https://andreafourel.fr/labouchedesgouts/public/)
 
 ### Front-end Projects
 [![](https://img.shields.io/badge/-%20Djenkafo%20Art-F0C929)](https://www.djenkafoart.com/)
